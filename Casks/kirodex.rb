@@ -1,6 +1,6 @@
 cask "kirodex" do
   version "0.20.0"
-  sha256 "88df45f9866855c3467fd12abf4ea4e38c9ee6811712908ba3792d861f2e760a"
+  sha256 "bade46ff2a9c4a8a3798ca91474814d8b8c930dcc01270aa31349a8767ccb135"
 
   url "https://github.com/thabti/kirodex/releases/download/v0.20.0/Kirodex_0.20.0_aarch64.dmg"
   name "Kirodex"
