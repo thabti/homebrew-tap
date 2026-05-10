@@ -1,8 +1,8 @@
 cask "kirodex" do
-  version "0.40.4"
-  sha256 "0a04d4871c6d25baa740cb3d24fbc8844636db56a3af15d46e5bfdd66da971db"
+  version "0.40.6"
+  sha256 "2237042c7da5de77df6199f7ee344118a898a02d16fa084b9b9175fc717f1a6c"
 
-  url "https://github.com/thabti/kirodex/releases/download/v0.40.4/Kirodex_0.40.4_aarch64.dmg"
+  url "https://github.com/thabti/kirodex/releases/download/v0.40.6/Kirodex_0.40.6_aarch64.dmg"
   name "Kirodex"
   desc "AI coding agents on your desktop"
   homepage "https://github.com/thabti/kirodex"
