@@ -1,8 +1,8 @@
 cask "klaudex" do
-  version "1.10.0"
-  sha256 "5f3c2edee6c05eec5e320246f51e8e0fa7356d3835a3dc465d9d991968884c8d"
+  version "1.10.1"
+  sha256 "f9853ab1308b1e746d0c126eb9eaff4bbd3317e587ecd1d5e6456cb299ef575f"
 
-  url "https://github.com/thabti/klaudex/releases/download/v1.10.0/Klaudex_1.10.0_aarch64.dmg"
+  url "https://github.com/thabti/klaudex/releases/download/v1.10.1/Klaudex_1.10.1_aarch64.dmg"
   name "Klaudex"
   desc "AI coding agents on your desktop"
   homepage "https://github.com/thabti/klaudex"
