@@ -1,8 +1,8 @@
 cask "silt" do
-  version "1.4"
-  sha256 "5f95922ee708887b971f2868e72c211b5712b89b557b9e8ff9723f957ab9f683"
+  version "1.5"
+  sha256 "48cd8c5df373721c500c9457dda819b8fcd0731533084b6c44fbccca61badc34"
 
-  url "https://github.com/thabti/silt/releases/download/v1.4/Silt-1.4.dmg"
+  url "https://github.com/thabti/silt/releases/download/v1.5/Silt-1.5.dmg"
   name "Silt"
   desc "Safe, fast macOS disk cleaner for developers"
   homepage "https://github.com/thabti/silt"
